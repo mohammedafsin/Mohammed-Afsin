@@ -1,4 +1,4 @@
-<h1 > Mohammed Afsin S</h1> 
+<h1 align="center"> Mohammed Afsin S</h1> 
 <h3 align="center">Finance & Analytics Student | Data Enthusiast | Aspiring Financial Analyst</h3>
 
 <p align="center">
