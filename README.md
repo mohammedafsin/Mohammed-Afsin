@@ -54,16 +54,3 @@
 - Tableau
 - SQL
 
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Visitors&style=for-the-badge&color=blue"/>
-</p>
-
----
-
-## 💡 Quote
-
-> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
